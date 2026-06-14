@@ -31,8 +31,11 @@ Kullanıcı, seri haberleşme (UART) terminali üzerinden **'a', 'b', 'c'** komu
 * **Uyarı LED'leri (TIM1 PWM):** `TIM_CHANNEL_1` (Çakar), `TIM_CHANNEL_3` (Nefes Alan).
 * **Sistem Güvenliği:** Dahili LSI Osilatör ile beslenen Independent Watchdog (IWDG).
 
-## 🚀 Kurulum ve Test (UART Üzerinden)
-
-1. Projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/STM32-Autonomous-FSM-Rover.git](https://github.com/KULLANICI_ADINIZ/STM32-Autonomous-FSM-Rover.git)
+### 👨‍💻 Geliştirici / Developer
+<p align="center">
+  <b>Yavuz ÇANDIR</b>
+  <br>
+  <a href="https://github.com/YavuzCandirr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
+  </a>
+</p>
